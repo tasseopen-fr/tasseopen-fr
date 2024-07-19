@@ -2,7 +2,7 @@
 - 👀 I’m interested in datas, coding, so I certified Data Engineering thanks to Datascientest.com Les Mines Paris PSL
 - 🌱 I’m currently learning Airflow
 - 💞️ I’m looking to collaborate on data projects.
-- 📫 How to reach me (coming soon)
+- 📫 How to reach me : tasseopen@gmail.com
 - 😄 Pronouns: she/her  
 # What is this github account for?
 -   I'm going to share here some of my rests - mini projects, hoping it will help beginners.
