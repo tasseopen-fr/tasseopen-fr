@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tasseopen-fr a very new French Data Engineer
-- 👀 I’m interested in datas, coding, so I certified Data Engineering thanks to Datascientest.com.
+- 👀 I’m interested in datas, coding, so I certified Data Engineering thanks to Datascientest.com Les Mines Paris PSL
 - 🌱 I’m currently learning Airflow
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me (coming soon)
